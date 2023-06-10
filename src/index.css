@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+:root{
+  /* CSS HEX */
+  --red-pantone: #e63946ff;
+  --cerulean: #457b9dff;
+  --mint-green: #dbf9f0ff;
+  --berkeley-blue: #1d3557ff;
+  --old-gold: #e2c044ff;
+  
+  /* CSS HSL */
+  /* --red-pantone: hsla(355, 78%, 56%, 1);
+  --cerulean: hsla(203, 39%, 44%, 1);
+  --mint-green: hsla(162, 71%, 92%, 1);
+  --berkeley-blue: hsla(215, 50%, 23%, 1);
+  --old-gold: hsla(47, 73%, 58%, 1); */
+  
+  
+  
+  }
