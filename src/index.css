@@ -14,11 +14,13 @@ code {
 :root{
   /* CSS HEX */
   --red-pantone: #e63946ff;
+  --folly: #ff3366ff;
   --cerulean: #457b9dff;
   --mint-green: #dbf9f0ff;
   --berkeley-blue: #1d3557ff;
   --old-gold: #e2c044ff;
-  
+  --sea-green: #0a8754ff;
+
   /* CSS HSL */
   /* --red-pantone: hsla(355, 78%, 56%, 1);
   --cerulean: hsla(203, 39%, 44%, 1);

@@ -1,0 +1,72 @@
+[
+    {
+        "category": "One Piece",
+        "url": "onepiece",
+        "description": "Vídeos sobre de reviews dos últimos capitúlos de one piece",
+        "color": "red",
+        "videos": [
+            {
+                "id": "ZMzM3pcQkpg",
+                "title": "BOMBA-SHANKS CONFIRMADO NOBRE MUNDIAL-SURGE A FAMILIA FIGARLAND OS REIS DE GODVALLEY- ONE PIECE 1086",
+                "description": "Tudo sobre o que aconteceu no capítulo 1086 de one piece em um Review absurdo de Evandro!"
+            },
+            {
+                "id": "UJbFIXd0Xx4",
+                "title": "REVELADO SHANKS É UM TENRYUBITO E PRÍNCIPE DE GOD VALLEY!! NOME DOS GOROUSEI E IMU - ONE PIECE 1086",
+                "description": "Tudo sobre o que aconteceu no capítulo 1086 de one piece em um Review absurdo do canal Chápeus de Palha!"
+            },
+            {
+                "id": "aBAnyl01iCk",
+                "title": "O PAI DE SHANKS APARECE! O MAIS FORTE CAVALEIRO SAGRADO DA FAMÍLIA FIGARLAND - ONE PIECE 1086",
+                "description": "Tudo sobre o que aconteceu no capítulo 1086 de one piece em um Review absurdo do canal Bruno Bandeira!"
+            }
+        ]
+    },
+    {
+        "category": "Jujutsu Kaisen",
+        "url": "jujutsu",
+        "description": "Vídeos sobre de reviews dos últimos capitúlos de Jujutsu Kaisen",
+        "color": "purple",
+        "videos": [
+            {
+                "id": "PaQohFLenh8",
+                "title": "SUKUNA VENCE GOJO COM UM UNICO CORTE! JUJUTSU KAISEN 225 OFICIAL",
+                "description": "Tudo sobre o que aconteceu no capítulo 225 de Jujutsu em um Review absurdo do canal to nerd!"
+            },
+            {
+                "id": "p61mhyWdePY",
+                "title": "SATORU GOJO HUMILHADO! SUKUNA SUPERA A EXPANSÃO DE DOMÍNIO DO MAIS FORTE! Jujutsu Kaisen 225",
+                "description": "Tudo sobre o que aconteceu no capítulo 225 de Jujutsu em um Review absurdo do canal Bruno Bandeira!"
+            },
+            {
+                "id": "Vr_7sFeFpJs",
+                "title": "SATORU GOJO poderia já ter VENCIDO?",
+                "description": "Tudo sobre o que aconteceu no capítulo 225 de Jujutsu em um Review absurdo do canal Dias de Nerd!"
+            }
+        ]
+    },
+ 
+    {
+        "category": "Tales of Demons and Gods",
+        "url": "tdg",
+        "description": "Vídeos dos últimos capítulos da novel FanFic de Tales of Demons and Gods",
+        "color": "orange",
+        "videos": [
+            {
+                "id": "WOy6oNqsEPI",
+                "title": "TDG - 510 - Todo dia sai um esperto e um otário de casa- LIGHT NOVEL PT-BR (fanfic)",
+                "description": "Novel criado por um fã, para a continuações  de TDG!"
+            },
+            {
+                "id": "oi2iDCFTEeQ",
+                "title": "TDG - 510 - Every day a smart guy and a sucker leave the house - Light Novel (EN)",
+                "description": "Novel criado por um fã, para a continuações  de TDG!"
+            },
+            {
+                "id": "MiyMhSNidBI",
+                "title": "TDG NOVEL PT-BR - 509 - UMA BATALHA EMINENTE - TALES OF DEMONS AND GODS (fanfic)",
+                "description": "Novel criado por um fã, para a continuações  de TDG!"
+            }
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+.btocontainer{
+    background-color:var( --old-gold);
+    /* height: 10rem; */
+    width: 100%;
+
+    border-bottom: 3px solid var(--berkeley-blue);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+div img{
+margin: 0 0 0 50px;
+}
+.botoes{
+    padding-right:50px ;
+}
+
+/* .banner{
+    ;
+} */

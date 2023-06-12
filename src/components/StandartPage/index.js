@@ -1,10 +1,12 @@
-import Banner from "../Banner";
+import Header from "../Header";
 import { Outlet } from "react-router-dom";
+import React from "react";
 
-export default function PaginaPadrao() {
+
+export default function StandartPage() {
     return (
         <main>
-            <Banner/>
+            <Header/>
 
             <Outlet />
         </main>

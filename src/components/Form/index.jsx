@@ -5,15 +5,15 @@ import {
   FormStyled,
   Invalid,
   TitleForm,
-} from "../../Form";
-import TextSmall from "../../Form/TextSmall";
-import TextLarge from "../../Form/TextLarge";
-import Select from "../../Form/SelectInput";
-import ButtonsForm from "../../Form/ButtonsForm";
+} from "../../components/Form";
+import TextSmall from "../../components/Form/TextSmall";
+import TextLarge from "../../components/Form/TextLarge";
+import Select from "../../components/Form/SelectInput";
+import ButtonsForm from "../../components/Form/ButtonsForm";
 import { Dialog } from "@mui/material";
-import { DialogBox, Hyperlink } from "../../UI";
+import { DialogBox, Hyperlink } from "../../components/UI";
 import { BsCheck2Circle } from "react-icons/bs";
-import { grayColorLight__1, successColor } from "../../UI/variables";
+import { grayColorLight__1, successColor } from "../../components/UI/variables";
 
 const SuccessfullyIcon = styled(BsCheck2Circle)`
   color: ${successColor};
@@ -26,7 +26,7 @@ const DialogText = styled.p`
   color: ${grayColorLight__1};
 `;
 
-export default function AddVideo({ categoryData, submitFunction }) {
+export default function NewVideo({ categoryData, submitFunction }) {
   const [title, setTitle] = useState("");
   const [link, setLink] = useState("");
   const [category, setCategory] = useState("");
