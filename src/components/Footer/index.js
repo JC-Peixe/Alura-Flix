@@ -97,7 +97,7 @@ const Footer = () => {
         <Logo />
         <Container>
           <TextFooter>
-            Desenvolvido  por Bianca Blanco e Adaptado por Jônatas Cassiano(Peixe) durante o <br />
+            Desenvolvido  por Bianca Blanco e Adaptado por Peixe durante o <br />
             programa "ONE - Oracle Next Education".{" "}
           </TextFooter>
 
