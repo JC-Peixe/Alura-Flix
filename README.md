@@ -16,6 +16,7 @@
 <div>
     <p>É sobre isso!!</p>
     <p>Parte do projeto foi copiado, pois ainda não tenho capacidade de criar toda essa estrutura que achei uma coisa linda de aprender.</p>
+    <p> esse foi o repositório que peguei... https://github.com/bncblnc/dogflix | está coisa linda o código desse site, perdão moça por copiar, mas achei top o seu e estou deixando explicito que não foi criação minha</p>
     <p>Continuarei buscando cada vez mais conhecimento para que em breve eu consiga produzir uma site melhor do que esse, como todo o conhecimento que seguirei obtendo!
 </div>
 
